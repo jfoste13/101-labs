@@ -7,6 +7,7 @@ def my_strspn(w1, w2):
             break
     return counter
 
+
 # Run the unit tests.
 
 def main():
